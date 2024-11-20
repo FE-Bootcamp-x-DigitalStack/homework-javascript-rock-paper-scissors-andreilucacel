@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+.play-btn {
+  margin: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+.play-btn:hover {
+  background-color: #ccc;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 20px;
+}
